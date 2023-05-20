@@ -28,3 +28,4 @@
 2. H2 in Footer - Assign Class and use in place of qualified heading
 3. Change Hero, Contents and Benfits Divs into Sections
 4. Assign a single Class for H2s in Content Section - 1 Class to maintain and removes qualified heading
+5. Assign a single Class for H3s in Benefits Section - 1 Class to maintain and removes qualified heading
