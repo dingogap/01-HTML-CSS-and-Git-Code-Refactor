@@ -25,7 +25,8 @@
     1. Page Title was just a PlaceHolder
     2. Hero, Content and Benfits sections were divs, not sections
     3. All Headings (h1, h2 & h3) were qualified. Multiple classes use to style h2 & h3 elements in content and benefits section
-
+    4. 3 identical classes used for benefits - replaced with single class
+    5. 3 identical classes used for benefits - replaced with single class
 ## Changes Made:
 
 1. HTML PlaceHolder Title - Replace with meaningful Title
@@ -34,4 +35,6 @@
 4. Assign a single Class for H2s in Content Section - 1 Class to maintain and removes qualified heading
 5. Assign a single Class for H3s in Benefits Section - 1 Class to maintain and removes qualified heading
 6. Assign a Class for H1 in Header - 1 Class to maintain and removes qualified heading
-7. Removed qulification for seo class - soe class appears once only so not needed 
+7. Removed qulification for seo class - soe class appears once only so not needed
+8. Assign a single class for benefits divs replacing the 3 identical classes
+9. Assign a single class for bennefits img tags replacing the 3 identical classes 
