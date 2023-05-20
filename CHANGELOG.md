@@ -42,3 +42,4 @@
 9. Assign a single class for bennefits img tags replacing the 3 identical classes
 10. Assign a single class for content divs replacing the 3 identical classes
 11. Assign a single class for content img tags replacing the 3 identical classes 
+12. Moved content class and content img class code to the content section to correct order
