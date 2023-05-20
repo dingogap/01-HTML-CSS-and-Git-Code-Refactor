@@ -15,7 +15,15 @@
 1. Review Web Page
 2. Review HTML Code
 3. Review CSS
+4. Noted Structure:
+    1. Header
+    2. Hero
+    3. Contents
+    4. Benerfits
+    5. Footer
 
-## Issues Noted:
+## Changes Made:
 
-1: Place Holder Title - Replace with meaningful Title 
+1. HTML PlaceHolder Title - Replace with meaningful Title
+2. H2 in Footer - Assign Class and use in place of qualified heading
+3. Change Hero, Contents and Benfits Divs into Sections
