@@ -27,3 +27,4 @@
 1. HTML PlaceHolder Title - Replace with meaningful Title
 2. H2 in Footer - Assign Class and use in place of qualified heading
 3. Change Hero, Contents and Benfits Divs into Sections
+4. Assign a single Class for H2s in Content Section - 1 Class to maintain and removes qualified heading
