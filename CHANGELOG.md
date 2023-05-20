@@ -21,6 +21,10 @@
     3. Contents
     4. Benerfits
     5. Footer
+5. Noted
+    1. Page Title was just a PlaceHolder
+    2. Hero, Content and Benfits sections were divs, not sections
+    3. All Headings (h1, h2 & h3) were qualified. Multiple classes use to style h2 & h3 elements in content and benefits section
 
 ## Changes Made:
 
@@ -29,3 +33,5 @@
 3. Change Hero, Contents and Benfits Divs into Sections
 4. Assign a single Class for H2s in Content Section - 1 Class to maintain and removes qualified heading
 5. Assign a single Class for H3s in Benefits Section - 1 Class to maintain and removes qualified heading
+6. Assign a Class for H1 in Header - 1 Class to maintain and removes qualified heading
+7. Removed qulification for seo class - soe class appears once only so not needed 

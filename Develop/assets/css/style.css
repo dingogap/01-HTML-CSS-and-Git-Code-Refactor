@@ -15,12 +15,12 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.header-h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
