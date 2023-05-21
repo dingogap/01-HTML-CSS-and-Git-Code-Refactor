@@ -21,7 +21,7 @@
     3. Contents
     4. Benerfits
     5. Footer
-5. Noted
+5. Notes
     1. Page Title was just a PlaceHolder
     2. Hero, Content and Benfits sections were divs, not sections
     3. All Headings (h1, h2 & h3) were qualified. Multiple classes use to style h2 & h3 elements in content and benefits section
@@ -35,6 +35,9 @@
     11. the benefits section should be an aside
     12. divs in content section should really be articles - stand alone ideas
     13. SEO Optimisation in nav bar not moving to SEO Optimisation artcle because id missing in article
+    14. Thought about wrapping h2s in articles in header tags but didn't make sense because of article structure
+    15. Added alt attributes to images in case img doesn't load
+    16. Wrapped img elements in figure element 
 
 ## Changes Made:
 
@@ -56,4 +59,6 @@
 16. changed benefits section to an aside and updated css
 17. corrected error in html - removed space in class for h2 headings in section
 18. changed divs in content section to articles
-19: added id="search-engine-optimization" to seo optimisation article
+19. added id="search-engine-optimization" to seo optimisation article
+20. added alt attributes to images
+21. wrapped img elements in figure elements
