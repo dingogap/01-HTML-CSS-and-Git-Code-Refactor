@@ -63,4 +63,12 @@
 19. added id="search-engine-optimization" to seo optimisation article
 20. added alt attributes to images
 21. wrapped img elements in figure elements
-22. added comments to CSS 
+22. added comments to CSS
+
+## Resources Used
+
+1. Lesson Material for Week 1
+2. GIT Cheat Sheet - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+3. W3 Schools Website Smenatic Elements - https://www.w3schools.com/html/html5_semantic_elements.asp
+4. Prior knowledge (even if a bit rusty)
+
