@@ -33,6 +33,7 @@
     9. div enclosing ul menu structure should be nav
     10. nav is unique so doesn't need to be qualified in css
     11. the benefits section should be an aside
+    12. divs in content section should really be articles - stand alone ideas
 
 ## Changes Made:
 
@@ -53,3 +54,4 @@
 15. there is only 1 nav in the html so removed header qualification to reduce specificity
 16. changed benefits section to an aside and updated css
 17. corrected error in html - removed space in class for h2 headings in section
+18. changed divs in content section to articles
