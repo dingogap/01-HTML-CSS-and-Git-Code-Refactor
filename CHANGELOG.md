@@ -52,3 +52,4 @@
 14. changed div enclosing menu ul in header to nav & updated css
 15. there is only 1 nav in the html so removed header qualification to reduce specificity
 16. changed benefits section to an aside and updated css
+17. corrected error in html - removed space in class for h2 headings in section
