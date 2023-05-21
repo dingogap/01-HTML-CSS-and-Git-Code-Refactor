@@ -32,6 +32,7 @@
     8. 1st div in body with class header should be a header element not a div & css can be applied to the element
     9. div enclosing ul menu structure should be nav
     10. nav is unique so doesn't need to be qualified in css
+    11. the benefits section should be an aside
 
 ## Changes Made:
 
@@ -50,3 +51,4 @@
 13. Changed ist div in body to header & changed css to refer to header element
 14. changed div enclosing menu ul in header to nav & updated css
 15. there is only 1 nav in the html so removed header qualification to reduce specificity
+16. changed benefits section to an aside and updated css
