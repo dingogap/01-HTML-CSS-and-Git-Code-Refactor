@@ -34,6 +34,7 @@
     10. nav is unique so doesn't need to be qualified in css
     11. the benefits section should be an aside
     12. divs in content section should really be articles - stand alone ideas
+    13. SEO Optimisation in nav bar not moving to SEO Optimisation artcle because id missing in article
 
 ## Changes Made:
 
@@ -55,3 +56,4 @@
 16. changed benefits section to an aside and updated css
 17. corrected error in html - removed space in class for h2 headings in section
 18. changed divs in content section to articles
+19: added id="search-engine-optimization" to seo optimisation article
