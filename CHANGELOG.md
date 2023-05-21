@@ -30,14 +30,16 @@
     6. 3 identical classes used for content - replaced with single class
     7. 3 identical classes used for content imgs - replaced with single class
     8. 1st div in body with class header should be a header element not a div & css can be applied to the element
+    9. div enclosing ul menu structure should be nav
+    10. nav is unique so doesn't need to be qualified in css
 
 ## Changes Made:
 
 1. HTML PlaceHolder Title - Replace with meaningful Title
-2. H2 in Footer - Assign Class and use in place of qualified heading
+2. H2 in Footer - Assign Class to reduce specificity
 3. Change Hero, Contents and Benfits Divs into Sections
-4. Assign a single Class for H2s in Content Section - 1 Class to maintain and removes qualified heading
-5. Assign a single Class for H3s in Benefits Section - 1 Class to maintain and removes qualified heading
+4. Assign a single Class for H2s in Content Section - 1 Class to maintain and reduces specificity
+5. Assign a single Class for H3s in Benefits Section - 1 Class to maintain and reduces specificity
 6. Assign a Class for H1 in Header - 1 Class to maintain and removes qualified heading
 7. Removed qulification for seo class - soe class appears once only so not needed
 8. Assign a single class for benefits divs replacing the 3 identical classes
@@ -46,3 +48,5 @@
 11. Assign a single class for content img tags replacing the 3 identical classes 
 12. Moved content class and content img class code to the content section to correct order
 13. Changed ist div in body to header & changed css to refer to header element
+14. changed div enclosing menu ul in header to nav & updated css
+15. there is only 1 nav in the html so removed header qualification to reduce specificity
