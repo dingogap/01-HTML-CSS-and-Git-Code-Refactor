@@ -29,6 +29,8 @@
     5. 3 identical classes used for benefits imgs - replaced with single class
     6. 3 identical classes used for content - replaced with single class
     7. 3 identical classes used for content imgs - replaced with single class
+    8. 1st div in body with class header should be a header element not a div & css can be applied to the element
+
 ## Changes Made:
 
 1. HTML PlaceHolder Title - Replace with meaningful Title
@@ -43,3 +45,4 @@
 10. Assign a single class for content divs replacing the 3 identical classes
 11. Assign a single class for content img tags replacing the 3 identical classes 
 12. Moved content class and content img class code to the content section to correct order
+13. Changed ist div in body to header & changed css to refer to header element
