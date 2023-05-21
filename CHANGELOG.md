@@ -37,7 +37,8 @@
     13. SEO Optimisation in nav bar not moving to SEO Optimisation artcle because id missing in article
     14. Thought about wrapping h2s in articles in header tags but didn't make sense because of article structure
     15. Added alt attributes to images in case img doesn't load
-    16. Wrapped img elements in figure element 
+    16. Wrapped img elements in figure element
+    17. Added comments to CSS - should these be removed before deploying in production? 
 
 ## Changes Made:
 
@@ -62,3 +63,4 @@
 19. added id="search-engine-optimization" to seo optimisation article
 20. added alt attributes to images
 21. wrapped img elements in figure elements
+22. added comments to CSS 
