@@ -40,6 +40,7 @@
     16. Wrapped img elements in figure element
     17. Added comments to CSS - should these be removed before deploying in production?
     18. Folder called Assets, code refers to assets
+    19. Folder rename was introduced by me - corrected & code updated
 
 ## Changes Made:
 
@@ -66,6 +67,7 @@
 21. wrapped img elements in figure elements
 22. added comments to CSS
 23. changed css link code from ./assets/css/styles.css to /Assets/css/styles.css
+23. changed css link code from /Assets/css/styles.css to ./assets/css/styles.css
 
 
 ## Resources Used
