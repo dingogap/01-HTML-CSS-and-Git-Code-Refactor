@@ -28,6 +28,7 @@ header {
 
 /* NavBar styling */
 nav {
+    /* NavBar Position */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,23 +37,31 @@ nav {
 }
 
 nav ul {
+    /* Remove Decoration From NavBar Menu */
     list-style-type: none;
 }
 
 nav ul li {
+    /* Menu Item Layout */
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 25px;    
 }
 
-/* Styling for Main element */
 a {
+    /* NavBar Text Colour & Style */
     color: #ffffff;
     text-decoration: none;
 }
 
+
+/* Styling for Main element */
+
+/* Not Used - reset by user agent 
 p {
     font-size: 16px;
 }
+*/
+
 
 /* Styling for hero section */
 .hero {
