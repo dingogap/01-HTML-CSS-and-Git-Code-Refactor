@@ -38,7 +38,8 @@
     14. Thought about wrapping h2s in articles in header tags but didn't make sense because of article structure
     15. Added alt attributes to images in case img doesn't load
     16. Wrapped img elements in figure element
-    17. Added comments to CSS - should these be removed before deploying in production? 
+    17. Added comments to CSS - should these be removed before deploying in production?
+    18. Folder called Assets, code refers to assets
 
 ## Changes Made:
 
@@ -64,6 +65,8 @@
 20. added alt attributes to images
 21. wrapped img elements in figure elements
 22. added comments to CSS
+23. changed css link code from ./assets/css/styles.css to /Assets/css/styles.css
+
 
 ## Resources Used
 
