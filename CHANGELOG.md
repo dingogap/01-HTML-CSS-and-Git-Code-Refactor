@@ -69,12 +69,18 @@
 23. changed css link code from ./assets/css/styles.css to /Assets/css/styles.css
 23. changed css link code from /Assets/css/styles.css to ./assets/css/styles.css
 24. Updated Alt Tags to improve meaning when read by screen reader
+25. Created README.md for Horiseon website after refactoring
 
 
 ## Resources Used
 
-1. Lesson Material for Week 1
-2. GIT Cheat Sheet - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
-3. W3 Schools Website Smenatic Elements - https://www.w3schools.com/html/html5_semantic_elements.asp
-4. Prior knowledge (even if a bit rusty)
+1. Bootcamp Materials - Lesson Material for Week 1
+2. [W3Schools Semantic Elements][def]
+3. [Github Markdown Style Guide][def2]
+4. [GitGuides][def3]
+5. Prior knowledge (even if a bit rusty)
+
+[def]: https://www.w3schools.com/html/html5_semantic_elements.asp
+[def2]: https://google.github.io/styleguide/docguide/style.html
+[def3]: https://github.com/git-guides
 
