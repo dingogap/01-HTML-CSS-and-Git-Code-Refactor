@@ -17,7 +17,7 @@ Clicking a NavBar Element scrolls the webpage to the appropriate article in the 
 
 ## Horiseon Website
 The refactored Horiseon website looks identical to the original code. 
-![Horiseon wWb Site](images/horiseonWebSiteIMage.png)
+![Horiseon wWb Site](websiteImages/horiseonWebSiteIMage.png)
 
 ## Refactoring Changes 
 
