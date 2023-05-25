@@ -6,7 +6,7 @@ There are two types of Challenges in this course. Each one is designed to prepar
 
 ### Challenge Types
 
-![My Image] (../images/horiseonFooter.png)
+![My Image](images/horiseonFooter.png)
 
 The two types of Challenges are the following:
 
