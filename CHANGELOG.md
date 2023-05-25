@@ -68,6 +68,7 @@
 22. added comments to CSS
 23. changed css link code from ./assets/css/styles.css to /Assets/css/styles.css
 23. changed css link code from /Assets/css/styles.css to ./assets/css/styles.css
+24. Updated Alt Tags to improve meaning when read by screen reader
 
 
 ## Resources Used
