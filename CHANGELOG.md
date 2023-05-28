@@ -70,6 +70,7 @@
 23. changed css link code from /Assets/css/styles.css to ./assets/css/styles.css
 24. Updated Alt Tags to improve meaning when read by screen reader
 25. Created README.md for Horiseon website after refactoring
+26. Added link in README.md to deployed website
 
 
 ## Resources Used

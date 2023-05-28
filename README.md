@@ -3,6 +3,11 @@
 ## Description
 Horiseon is Web Marketing Company requested their website to be reviewd and refactored to improve accessibility and improve search rankings.
 
+## Horiseon Website Link
+
+Click the link to view the deployed website: [Horiseon Website][def4]
+
+
 ## Site Structure
 The Horiseon website is a landing page. It contains
 1. Header - containing a NavBar
@@ -35,3 +40,4 @@ The changes made to the Horiseon web site are contained in the [Changelog](./CHA
 [def]: https://www.w3schools.com/html/html5_semantic_elements.asp
 [def2]: https://google.github.io/styleguide/docguide/style.html
 [def3]: https://github.com/git-guides
+[def4]: https://dingogap.github.io/01-HTML-CSS-and-Git-Code-Refactor/
